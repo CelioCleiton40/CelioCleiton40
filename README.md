@@ -12,7 +12,7 @@
 - Otimização de backend e sistemas de alta performance  
 
 ### 💼 **Projetos em Destaque:**  
-- **IAdv Manager** – Sistema completo para gerenciamento de clientes, serviços e entregas, integrando marketplace, dashboards e relatórios detalhados.  
+- **IAdv Manager** – É uma plataforma moderna e intuitiva desenvolvida para auxiliar advogados e escritórios de advocacia na gestão de seus processos, clientes e rotinas diárias.  
 - **Entrega Fácil** – Plataforma para entregas de peças automotivas, conectando clientes, lojistas, oficinas e motoboys.  
 
 ### 💞️ **Buscando colaborar em:**  
