@@ -1,32 +1,32 @@
 👋 **Oi, eu sou o Célio Cleiton!**  
-💻 Sou um **Desenvolvedor Full-Stack** apaixonado por criar aplicações escaláveis e eficientes.  
+💻 Sou um **Desenvolvedor Full-Stack** com foco em criar aplicações escaláveis, eficientes e de alta qualidade. Atualmente, estou cursando **Engenharia de Software** para aprimorar ainda mais meus conhecimentos e habilidades em tecnologia.
 
-### 👀 **Interesses:**  
-- Desenvolvimento web e mobile  
-- Inteligência Artificial e automação  
-- Desenvolvimento de jogos e sistemas de RPG  
-- Análise de dados e insights de negócios  
+### 🔍 **Interesses e áreas de atuação:**
+- Desenvolvimento web (Front-End e Back-End)
+- Inteligência Artificial e automação
+- Desenvolvimento de jogos e sistemas de RPG
+- Análise de dados e criação de soluções baseadas em insights
 
-### 🌱 **Atualmente aprendendo:**  
-- Língua alemã  & italiano  
-- Otimização de backend e sistemas de alta performance  
+### 🌱 **Atualmente aprendendo:**
+- Línguas: Alemão e Italiano
+- Otimização de back-end e sistemas de alta performance
+- Engenharia de Software (Bacharelado)
 
-### 💼 **Projetos em Destaque:**  
-- **IAdv Manager** – É uma plataforma moderna e intuitiva desenvolvida para auxiliar advogados e escritórios de advocacia na gestão de seus processos, clientes e rotinas diárias.  
-- **Entrega Fácil** – Plataforma para entregas de peças automotivas, conectando clientes, lojistas, oficinas e motoboys.  
+### 💼 **Projetos em destaque:**
+- **IAdv Manager:** Plataforma intuitiva para gestão de processos, clientes e rotinas diárias de advogados e escritórios de advocacia.
+- **Entrega Fácil:** Plataforma para entregas de peças automotivas, conectando clientes, lojistas, oficinas e motoboys.
 
-### 💞️ **Buscando colaborar em:**  
-- Projetos open-source relacionados a desenvolvimento web e mobile  
-- Apps inovadores para serviços de entrega e marketplaces  
-- Sistemas de gerenciamento de personagens para RPG  
+### 🚀 **Buscando colaboração em:**
+- Projetos open-source de desenvolvimento web e mobile
+- Apps inovadores para serviços de entrega e marketplaces
+- Ferramentas e sistemas de gerenciamento de personagens para RPG
 
-### 📫 **Como entrar em contato:**  
-- **E-mail:** [cleitonfreelance@gmail.com](mailto:cleitonfreelance@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/celiocleiton](#)  
-- **GitHub:** [github.com/CelioCleiton40](https://github.com/CelioCleiton40)  
+### 📫 **Como entrar em contato:**
+- **E-mail:** [cleitonfreelance@gmail.com](mailto:cleitonfreelance@gmail.com)
+- **LinkedIn:** [linkedin.com/in/celiocleiton](#)
+- **GitHub:** [github.com/CelioCleiton40](https://github.com/CelioCleiton40)
 
-### 😄 **Pronomes:**  
-Ele/Dele  
+### 😄 **Pronomes:** Ele/Dele
 
 ### ⚡ **Curiosidade:**  
 Sou fã de D&D e estou desenvolvendo minha própria campanha de RPG!
