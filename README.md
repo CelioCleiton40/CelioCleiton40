@@ -50,7 +50,7 @@ DevOps, Testes & Ferramentas
 
 🤖 Inteligência Artificial & AI-Assisted Development
 
-Ferramentas de desenvolvimento
+Ferramentas de Desenvolvimento
 
 - Claude Code
 - TRAE IDE
@@ -60,7 +60,7 @@ Ferramentas de desenvolvimento
 - Skills e workflows especializados
 - AI-assisted coding, debugging e refactoring
 
-Modelos & Infraestrutura de IA
+Modelos & Infraestrutura
 
 - Ollama
 - OpenAI API
@@ -156,7 +156,7 @@ Destaques técnicos:
 - 🧪 Aprofundando conhecimentos em testes automatizados e qualidade de software
 - 🐳 Estudando Docker, CI/CD e práticas de DevOps
 - 📚 Cursando Engenharia de Software — 3º período
-- 🌍 Aprendendo Inglês e Francês.
+- 🌍 Aprendendo Inglês
 - 🎯 Buscando oportunidade como Desenvolvedor Full Stack Júnior
 
 ---
